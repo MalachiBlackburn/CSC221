@@ -18,9 +18,9 @@ def main():
 
     ## Display pet Info
 
-    print("Here is your pet's name: ", mypet.get_name())
-    print("Here is your pet's type: ", mypet.get_animal_type())
-    print("Here is your pet's age: ", mypet.get_age())
+    print("Here is your pet's name:", mypet.get_name())
+    print("Here is your pet's type:", mypet.get_animal_type())
+    print("Here is your pet's age:", mypet.get_age())
     
 
 
